@@ -1,0 +1,2 @@
+# metricbeat.yml
+metricbeat yaml
